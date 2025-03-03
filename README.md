@@ -50,5 +50,5 @@ Contrasenya: password
 ```
 ## 🌐 URL Pública a Docker Hub
 
-La imatge preconstruïda està disponible a [docker hub][https://hub.docker.com/r/ianditb/dev_ubuntu], o:  
+La imatge preconstruïda està disponible a [docker hub]: https://hub.docker.com/r/ianditb/dev_ubuntu, o:  
 `docker pull ianditb/dev_ubuntu:latest`
